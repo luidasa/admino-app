@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "admino-app": {
+      "hosting": {
+        "admino-app": [
+          "admino-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "admino-app"
+  }
+}
